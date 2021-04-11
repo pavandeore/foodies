@@ -16,8 +16,8 @@ function Footer() {
             <div className="container flex flex-col justify-center mr-12 sm:text-center text-right text-gray-500 text-lg">
                 <p className="text-sm sm:text-xs text-white mb-1">
                     <FontAwesomeIcon icon={faCode} size="1x" /> by{" "}
-                    <a href="https://twitter.com/heytulsiprasad">
-                        @heytulsiprasad
+                    <a href="https://pavandeore.github.io">
+                        @pawandeore
                     </a>
                 </p>
                 <p className="text-md sm:text-sm">

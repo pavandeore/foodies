@@ -20,7 +20,7 @@ function Card(props) {
                         return (
                             <span
                                 key={index}
-                                className="inline-block text-copy-primary mt-1 bg-background-tertiary rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                                className="inline-block text-copy-primary mt-1 bg-background-tertiary rounded-full px-3 py-1 text-sm font-semibold text-gray-200 mr-2"
                             >
                                 {tag}
                             </span>

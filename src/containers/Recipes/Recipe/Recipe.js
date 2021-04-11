@@ -119,7 +119,7 @@ function Recipe(props) {
                             </a>
                         </div>
                         <div className="container">
-                            <h1 className="text-6xl text-copy-primary lg:text-center leading-tight mb-2 pl-6 py-2">
+                            <h1 className="text-4xl text-copy-primary lg:text-center leading-tight mb-2 pl-6 py-2">
                                 {recipe.strMeal}
                             </h1>
                             <div className="container lg:mx-auto pl-6 py-1 w-5/6">
@@ -127,7 +127,7 @@ function Recipe(props) {
                             </div>
                         </div>
                     </div>
-                    <div className="container px-6 mt-6 mb-12">
+                    <div className="container px-4 mt-6 mb-12">
                         <h1 className="text-4xl text-copy-primary text-center font-bold py-2">
                             How to Cook this?{" "}
                             <span role="img" aria-label="icon">
