@@ -19,6 +19,9 @@ function Footer() {
                     <a href="https://pavandeore.github.io">
                         @pawandeore
                     </a>
+                    <a className="ml-5" href="https://pavandeore.github.io/recipe-app-privacy/">
+                        Privacy Policy
+                    </a>
                 </p>
                 <p className="text-md sm:text-sm">
                     Made possible by
