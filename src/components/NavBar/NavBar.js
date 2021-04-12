@@ -51,7 +51,7 @@ function NavBar() {
                         <FastfoodIcon />
                     </span>
                     <span className="font-semibold ml-2 text-xl tracking-tight">
-                        Foodie recipes
+                        Foodie Recipe
                     </span>
                 </Link>
             </div>
